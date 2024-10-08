@@ -39,6 +39,8 @@ WARNING: When inserting the CR2032 battery, angle it at 45° under the terminals
 
 ![image](https://github.com/user-attachments/assets/ea90aaeb-af59-4df7-9f89-c0cd647de8e6)
 
+![image](https://github.com/user-attachments/assets/d605d151-df71-4477-89e6-83cbb5e2ff01)
+
 Battery Removal:
 When removing the battery, use a lever between the battery and the holder. Do not place the lever between the battery and the PCB to avoid ripping off the solder joints.
 
